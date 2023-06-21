@@ -13,4 +13,4 @@
 <h2>Tic-Tac-Toe</h2>
 
 <p>Tic Tac Toe is a multiplayer game and the players of this game have to position their marks(sign) so that they can construct a continuous line of three cells or boxes vertically,horizontally or diagonally.</p>
-<a href="https://harini0303.github.io/Tic-Tac-Toe/">Let's Play</a>
+<a href="https://harinisree03.github.io/tic-tac-toe/">Let's Play</a>
