@@ -1,4 +1,4 @@
-# Mini-Projects
+# Mini-Projects in Web Development
 <h2>Calculator</h2>
 <p> I made a Calculator using HTML, CSS and JavaScript.</p>
 <p>In this JavaScript Calculator Project, I first create the UI design of Calculator using HTML CSS and then I used JavaScript to add the functionality to the calculator.</p>
@@ -11,6 +11,5 @@
 • The JavaScript will provide the logic behind the rotation of the hands. </p>
 
 <h2>Tic-Tac-Toe</h2>
-
 <p>Tic Tac Toe is a multiplayer game and the players of this game have to position their marks(sign) so that they can construct a continuous line of three cells or boxes vertically,horizontally or diagonally.</p>
 
