@@ -1,0 +1,50 @@
+/* Card container */
+.card {
+    width: 320px; /* 300px image + padding */
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fdfdfd;
+}
+
+/* Animal name */
+.animal-name {
+    border: 1px solid #ccc;
+    padding: 6px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Animal image */
+.animal-image {
+    width: 300px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+/* Animal information section */
+.animal-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Interesting fact */
+.interesting-fact {
+    font-style: italic;
+}
+
+/* List styling */
+.facts-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* List labels */
+.label {
+    font-weight: bold;
+}
+
+/* Description text */
+.description {
+    margin-top: 10px;
+}
